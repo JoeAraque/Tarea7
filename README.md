@@ -13,6 +13,7 @@ NRC: 10149
 ### Objetivos especificos
 ## 2. Marco teorico
 
+![13-5](https://user-images.githubusercontent.com/93951775/153488719-d92e9b6a-6981-4539-ad81-bd396fd3f761.jpeg)
 
 ![map14 4](https://user-images.githubusercontent.com/93224166/152461661-71f5f391-dd1a-44db-b219-e17ebb529f47.png)
 ![map14 5](https://user-images.githubusercontent.com/93224166/152461662-cd8bc92f-74c2-4200-ad3f-3cbcc26bf053.png)
