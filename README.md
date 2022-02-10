@@ -63,6 +63,24 @@ un voltaje de entrada rms de 10 V?
 
 ![35-13](https://user-images.githubusercontent.com/93951775/153467867-9f18e6ed-cb5e-4d98-b879-26113a5d4d04.JPG)
 
+1. ¿Cuál es la inductancia mutua cuando k  0.75, L1  1 mH, y L2  4 mH?
+
+3. ¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario?
+¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100?
+
+5. Para cada transformador de la figura 14-42, trace el voltaje secundario que muestre su relación con el
+voltaje primario. Indique también la amplitud.
+
+![5-14](https://user-images.githubusercontent.com/93951775/153470544-7d579d0f-4898-4157-af0a-98c2727c8fb2.JPG)
+
+7. El devanado primario de un transformador tiene 120 V de ca a través de él. ¿Cuál es el voltaje secundario
+si la relación de vueltas es de 5?
+
+9. Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas?
+
+11. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para
+obtener un voltaje secundario de 6 V de ca?
+
 **13. Determine las lecturas de medidor no especificadas en la figura 14-44**
 
 ![13 0](https://user-images.githubusercontent.com/93224166/153318339-19374f67-a750-4484-b156-c5e2ef474b43.png)
