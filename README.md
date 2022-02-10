@@ -4,7 +4,6 @@ INTEGRANTES
 
 1. Araque Jaime
 2.  Alexander Ballesteros
-3.  
 4. Morales Kevin
 
 NRC: 10149
@@ -41,6 +40,28 @@ NRC: 10149
 
 ## 3. Explicacion y Resolucion de ejercicios o Problemas
 
+27. Determine la constante de tiempo para el circuito de la figura 13-50.
+
+![27-13](https://user-images.githubusercontent.com/93951775/153467835-448b027a-1ec3-4a82-9f9a-30e2bc8478be.JPG)
+
+29. Para el circuito de la figura 13-50, suponga que el interruptor estuvo cerrado por más de 5t y se abre.
+¿Cuál es la corriente en el inductor 1.0 ms después de que se abre el interruptor?
+
+![27-13](https://user-images.githubusercontent.com/93951775/153467835-448b027a-1ec3-4a82-9f9a-30e2bc8478be.JPG)
+
+31. Determine la reactancia total para cada circuito de la figura 13-47 cuando se aplica voltaje a una frecuencia
+de 400 Hz.
+
+![31-13](https://user-images.githubusercontent.com/93951775/153467849-5f62f4e5-fb08-455a-b4f5-83a1648c2fc3.JPG)
+
+33. ¿Qué frecuencia producirá una corriente rms total de 500 mA en cada circuito de la figura 13-47 con
+un voltaje de entrada rms de 10 V?
+
+![31-13](https://user-images.githubusercontent.com/93951775/153467849-5f62f4e5-fb08-455a-b4f5-83a1648c2fc3.JPG)
+
+35. Determine IL2 en la figura 13-52.
+
+![35-13](https://user-images.githubusercontent.com/93951775/153467867-9f18e6ed-cb5e-4d98-b879-26113a5d4d04.JPG)
 
 **13. Determine las lecturas de medidor no especificadas en la figura 14-44**
 
