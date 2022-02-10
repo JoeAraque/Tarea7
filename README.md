@@ -90,7 +90,8 @@ NRC: 10149
 ![311](https://user-images.githubusercontent.com/93224166/153318366-2e5a3ad4-45f1-4ea7-8683-f0585598c130.png)
 
 **33. ¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?**
- *` Un devanado primario completamente en cortocircuito extraerá demasiada corriente de la fuente; y a menos que haya un cortacircuito o un fusible en el circuito, la fuente o el transformador, o ambos, se quemarán. Un corto parcial en el devanado primario puede provocar una corriente primaria más alta que lo normal o incluso excesiva.`
+ 
+ ` Un devanado primario completamente en cortocircuito extraerá demasiada corriente de la fuente; y a menos que haya un cortacircuito o un fusible en el circuito, la fuente o el transformador, o ambos, se quemarán. Un corto parcial en el devanado primario puede provocar una corriente primaria más alta que lo normal o incluso excesiva.`
 
 
 ## 4. Video 
