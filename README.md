@@ -269,6 +269,9 @@ obtener un voltaje secundario de 6 V de ca?
 
 
 ## 4. Video 
+
+https://youtu.be/d3EJo9HzytU
+
 ## 5. Conclusiones
 * La inductancia depende de la cantidad de vueltas de alambre, la permeabilidad, el área de sección
 transversal, y de la longitud del núcleo.
