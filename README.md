@@ -177,6 +177,8 @@ transformador
 
 ![27-13](https://user-images.githubusercontent.com/93951775/153467835-448b027a-1ec3-4a82-9f9a-30e2bc8478be.JPG)
 
+![2713](https://user-images.githubusercontent.com/93951775/153605120-369748c6-5e2e-4fb1-b07b-fcaa4391a707.JPG)
+
 29. Para el circuito de la figura 13-50, suponga que el interruptor estuvo cerrado por más de 5t y se abre.
 ¿Cuál es la corriente en el inductor 1.0 ms después de que se abre el interruptor?
 
@@ -187,19 +189,30 @@ de 400 Hz.
 
 ![31-13](https://user-images.githubusercontent.com/93951775/153467849-5f62f4e5-fb08-455a-b4f5-83a1648c2fc3.JPG)
 
+![3113](https://user-images.githubusercontent.com/93951775/153605134-5d6f2b1e-54a6-455a-8e7f-56443f3e9cba.JPG)
+
 33. ¿Qué frecuencia producirá una corriente rms total de 500 mA en cada circuito de la figura 13-47 con
 un voltaje de entrada rms de 10 V?
 
 ![31-13](https://user-images.githubusercontent.com/93951775/153467849-5f62f4e5-fb08-455a-b4f5-83a1648c2fc3.JPG)
 
+![3313](https://user-images.githubusercontent.com/93951775/153605171-b72ca00d-42df-453c-9d94-a48ae9fd1643.JPG)
+
 35. Determine IL2 en la figura 13-52.
 
 ![35-13](https://user-images.githubusercontent.com/93951775/153467867-9f18e6ed-cb5e-4d98-b879-26113a5d4d04.JPG)
 
+![3513](https://user-images.githubusercontent.com/93951775/153605179-f38dbc20-a2b5-479f-928a-9109693f409b.JPG)
+
 1. ¿Cuál es la inductancia mutua cuando k  0.75, L1  1 mH, y L2  4 mH?
+
+![114](https://user-images.githubusercontent.com/93951775/153605193-2cdd27c3-2969-4886-a2ba-c4aab3d5ae6a.JPG)
 
 3. ¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario?
 ¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100?
+
+La relacion de 250 primario y 1000 secundario es de 1:4
+La relacion de 400 primario y 100 secundario es de 4:1
 
 5. Para cada transformador de la figura 14-42, trace el voltaje secundario que muestre su relación con el
 voltaje primario. Indique también la amplitud.
@@ -209,12 +222,16 @@ voltaje primario. Indique también la amplitud.
 7. El devanado primario de un transformador tiene 120 V de ca a través de él. ¿Cuál es el voltaje secundario
 si la relación de vueltas es de 5?
 
+![714](https://user-images.githubusercontent.com/93951775/153605207-0fc9b2e3-9f91-491c-9803-21ecdf238ff7.JPG)
+
 9. Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas?
 
+![914](https://user-images.githubusercontent.com/93951775/153605222-6f87c36e-0a6c-486f-a346-dc0f447f6fb0.JPG)
 
 11. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para
 obtener un voltaje secundario de 6 V de ca?
 
+![1114](https://user-images.githubusercontent.com/93951775/153605336-eaaac648-a173-4934-bbfa-27e0189b75d0.JPG)
 
 **13. Determine las lecturas de medidor no especificadas en la figura 14-44**
 
