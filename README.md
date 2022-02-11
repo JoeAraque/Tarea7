@@ -10,6 +10,7 @@ NRC: 10149
 ### TEMA: 
 ## 1. Objetivos
 ### Objetivo general
+1.     Analizar y describir el funcionamiento y aplicaciones de los inductores y transformadores en corriente continua y alterna, mediante el estudio de sus caracteristicas y aplicaciones para un mayor conocimiento sobre el tema.
 ### Objetivos especificos
 *  Describir la construcción y las características
 básicas de un inductor
