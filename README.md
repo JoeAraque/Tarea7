@@ -212,12 +212,19 @@ un voltaje de entrada rms de 10 V?
 ¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100?
 
 La relacion de 250 primario y 1000 secundario es de 1:4
+
 La relacion de 400 primario y 100 secundario es de 4:1
 
 5. Para cada transformador de la figura 14-42, trace el voltaje secundario que muestre su relación con el
 voltaje primario. Indique también la amplitud.
 
 ![5-14](https://user-images.githubusercontent.com/93951775/153470544-7d579d0f-4898-4157-af0a-98c2727c8fb2.JPG)
+
+ A) Los devandaos se encuentran en direccion efectiva, el voltaje aplicado e inducido estan en fase, la amplitud del voltaje inducido se encuentra en una relacion 1:10 entonces es de 100 V
+ 
+ B) Los devanados se encuantran en direccion efectiva contraria, el voltaje aplicado e inducido se encuentra desfasado 180, la amplitud del voltaje inducido se encuentra en una relacion 1:2 entonces es de 100 V
+ 
+ C) Los devanados se encuantran en direccion efectiva contraria, el voltaje aplicado e inducido se encuentra desfasado -180, la amplitud del voltaje inducido se encuentra en una relacion 5:1 entonces es de 20 V
 
 7. El devanado primario de un transformador tiene 120 V de ca a través de él. ¿Cuál es el voltaje secundario
 si la relación de vueltas es de 5?
