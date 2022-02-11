@@ -170,7 +170,7 @@ transformador
 
 
 
-
+.
 
 
 27. Determine la constante de tiempo para el circuito de la figura 13-50.
