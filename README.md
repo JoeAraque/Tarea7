@@ -11,6 +11,15 @@ NRC: 10149
 ## 1. Objetivos
 ### Objetivo general
 ### Objetivos especificos
+*  Describir la construcción y las características
+básicas de un inductor
+* Analizar inductores dispuestos en serie y en
+paralelo
+* Examinar algunas aplicaciones de los inductores
+* Describir cómo se construye un transformador y
+cómo funciona
+* Analizar el concepto de carga reflejada en un
+transformador
 ## 2. Marco teorico
 
 ![13-5](https://user-images.githubusercontent.com/93951775/153488719-d92e9b6a-6981-4539-ad81-bd396fd3f761.jpeg)
@@ -144,6 +153,16 @@ obtener un voltaje secundario de 6 V de ca?
 
 ## 4. Video 
 ## 5. Conclusiones
+* La inductancia depende de la cantidad de vueltas de alambre, la permeabilidad, el área de sección
+transversal, y de la longitud del núcleo.
+* Todos los alambres tienen algo de resistencia, y como los inductores se fabrican a partir de vueltas de
+alambre, siempre hay resistencia.
+* La inductancia total en paralelo es más pequeña que la del inductor de valor más pequeño dispuesto en
+paralelo.
+* La relación de vueltas es la relación de vueltas en el devanado secundario a las vueltas en el devanado
+primario.
+* Un transformador elevador produce un voltaje secundario mayor que el voltaje primario. 
+* El aislamiento eléctrico es la condición que existe cuando dos bobinas están magnéticamente enlazadas pero sin ninguna conexión eléctrica entre e
 ## 6. Bibliografia
 Floyd, F. (s. f.). Principios de Circuitos electricos.
 
